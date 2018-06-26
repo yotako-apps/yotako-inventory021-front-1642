@@ -1,0 +1,241 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.style19 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 3.4375em;
+  margin-left: 449px;
+  margin-top: 48px;
+  height: 69px
+}
+.newmockup2row2,
+.style7 {
+  margin-left: 403px;
+  height: 41px
+}
+.style7 {
+  font-family: BalsamiqSans,serif;
+  font-size: 2.125em;
+  margin-top: 34px
+}
+.newmockup2row2 {
+  display: flex;
+  margin-top: 25px;
+  width: 398px;
+  align-items: center
+}
+.style0,
+.style2 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 0;
+  height: 31px
+}
+.style0 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-align: left;
+  text-indent: 15px;
+  margin-left: 83px;
+  width: 200px;
+  height: 100%
+}
+.newmockup2row3 {
+  display: flex;
+  margin-left: 403px;
+  margin-top: 25px;
+  width: 398px;
+  height: 41px;
+  align-items: center
+}
+.style3,
+.style5 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 0;
+  height: 31px
+}
+.style3 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-align: left;
+  text-indent: 15px;
+  margin-left: 123px;
+  width: 200px;
+  height: 100%
+}
+.newmockup2row4 {
+  display: flex;
+  margin-left: 403px;
+  margin-top: 25px;
+  width: 398px;
+  height: 41px;
+  align-items: center
+}
+.style6 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 0;
+  height: 31px
+}
+.newmockup2row4unsupported0 {
+  margin-left: 149px;
+  width: 200px;
+  height: 100%
+}
+.newmockup2row6,
+.style9 {
+  margin-left: 403px;
+  height: 41px
+}
+.style9 {
+  font-family: BalsamiqSans,serif;
+  font-size: 2.125em;
+  margin-top: 34px
+}
+.newmockup2row6 {
+  display: flex;
+  margin-top: 22px;
+  width: 398px;
+  align-items: stretch
+}
+.style20,
+.style8 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 0
+}
+.style20 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-align: left;
+  text-indent: 15px;
+  margin-left: 2px;
+  width: 200px
+}
+.newmockup2row7 {
+  display: flex;
+  margin-left: 403px;
+  margin-top: 22px;
+  width: 398px;
+  height: 41px;
+  align-items: stretch
+}
+.style10,
+.style22 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 0
+}
+.style22 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-align: left;
+  text-indent: 15px;
+  margin-left: 34px;
+  width: 200px
+}
+.newmockup2row8 {
+  display: flex;
+  margin-left: 403px;
+  margin-top: 28px;
+  width: 398px;
+  height: 41px;
+  align-items: stretch
+}
+.style11 {
+  margin-left: 0
+}
+.style11,
+.style12,
+.style16 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em
+}
+.style12 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-align: left;
+  text-indent: 15px;
+  width: 200px;
+  margin-left: 25px
+}
+.style16 {
+  margin-left: 403px;
+  margin-top: 20px;
+  height: 31px
+}
+.newmockup2row10 {
+  display: flex;
+  margin-left: 403px;
+  margin-top: 18px;
+  width: 180px;
+  height: 22px;
+  align-items: stretch
+}
+.newmockup2row10checkbox0 {
+  margin-left: 0;
+  width: 22px
+}
+.style14 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 9px
+}
+.newmockup2row11 {
+  display: flex;
+  margin-left: 403px;
+  margin-top: 22px;
+  width: 218px;
+  height: 22px;
+  align-items: stretch
+}
+.newmockup2row11checkbox1 {
+  margin-left: 0;
+  width: 22px
+}
+.style15 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 9px
+}
+.style17 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 12px 12px 0 0 #000;
+  display: flex;
+  margin-left: 699px;
+  margin-top: 6px;
+  width: 101px;
+  height: 41px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style18 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
